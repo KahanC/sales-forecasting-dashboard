@@ -2,7 +2,7 @@
 
 Interactive six-panel Plotly dashboard comparing daily sales in November and December (2022–2024) with an illustrative 2025 baseline or an optional Prophet forecast.
 
-**[View the interactive dashboard](https://YOUR_USERNAME.github.io/sales-forecasting-dashboard/)** — replace `YOUR_USERNAME` after publishing.
+**[View the interactive dashboard](https://KahanC.github.io/sales-forecasting-dashboard/)** — replace `YOUR_USERNAME` after publishing.
 
 ## Privacy and data
 
